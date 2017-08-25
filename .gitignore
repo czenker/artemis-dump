@@ -1,0 +1,7 @@
+.*
+!.git*
+*~
+_*
+target
+MISS_defence.XML
+MISS_defence_LOG.txt
